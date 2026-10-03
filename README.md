@@ -24,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mr-aditya4311/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mr-aditya4311/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mr-aditya4311/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mr-aditya4311/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
