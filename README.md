@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0001-two-sum](https://github.com/mr-aditya4311/LeetCode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mr-aditya4311/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/mr-aditya4311/LeetCode/tree/master/0217-contains-duplicate) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mr-aditya4311/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mr-aditya4311/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/mr-aditya4311/LeetCode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mr-aditya4311/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/mr-aditya4311/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
