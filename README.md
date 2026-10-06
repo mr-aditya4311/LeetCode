@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0001-two-sum](https://github.com/mr-aditya4311/LeetCode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mr-aditya4311/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/mr-aditya4311/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mr-aditya4311/LeetCode/tree/master/0217-contains-duplicate) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mr-aditya4311/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mr-aditya4311/LeetCode/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/mr-aditya4311/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
