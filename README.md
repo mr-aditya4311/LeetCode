@@ -12,17 +12,20 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mr-aditya4311/LeetCode/tree/master/0200-number-of-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mr-aditya4311/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mr-aditya4311/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mr-aditya4311/LeetCode/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mr-aditya4311/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mr-aditya4311/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mr-aditya4311/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mr-aditya4311/LeetCode/tree/master/0200-number-of-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mr-aditya4311/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mr-aditya4311/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Array
@@ -31,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0001-two-sum](https://github.com/mr-aditya4311/LeetCode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mr-aditya4311/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mr-aditya4311/LeetCode/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/mr-aditya4311/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/mr-aditya4311/LeetCode/tree/master/0217-contains-duplicate) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mr-aditya4311/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
@@ -45,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/mr-aditya4311/LeetCode/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mr-aditya4311/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Sorting
 |  |
