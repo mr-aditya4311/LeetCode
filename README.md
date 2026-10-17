@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0169-majority-element](https://github.com/mr-aditya4311/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/mr-aditya4311/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/mr-aditya4311/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/mr-aditya4311/LeetCode/tree/master/0268-missing-number) |
 | [0695-max-area-of-island](https://github.com/mr-aditya4311/LeetCode/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mr-aditya4311/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Hash Table
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0001-two-sum](https://github.com/mr-aditya4311/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/mr-aditya4311/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mr-aditya4311/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/mr-aditya4311/LeetCode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0169-majority-element](https://github.com/mr-aditya4311/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mr-aditya4311/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/mr-aditya4311/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mr-aditya4311/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/mr-aditya4311/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mr-aditya4311/LeetCode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mr-aditya4311/LeetCode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mr-aditya4311/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
