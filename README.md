@@ -98,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mr-aditya4311/LeetCode/tree/master/0013-roman-to-integer) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/mr-aditya4311/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
