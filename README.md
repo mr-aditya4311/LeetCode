@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0200-number-of-islands](https://github.com/mr-aditya4311/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/mr-aditya4311/LeetCode/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mr-aditya4311/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/mr-aditya4311/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/mr-aditya4311/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mr-aditya4311/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0268-missing-number](https://github.com/mr-aditya4311/LeetCode/tree/master/0268-missing-number) |
 | [0695-max-area-of-island](https://github.com/mr-aditya4311/LeetCode/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mr-aditya4311/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/mr-aditya4311/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mr-aditya4311/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1162-as-far-from-land-as-possible](https://github.com/mr-aditya4311/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mr-aditya4311/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/mr-aditya4311/LeetCode/tree/master/0695-max-area-of-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mr-aditya4311/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/mr-aditya4311/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 ## Sorting
 |  |
 | ------- |
