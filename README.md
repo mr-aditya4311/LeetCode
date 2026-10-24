@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mr-aditya4311/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0647-palindromic-substrings](https://github.com/mr-aditya4311/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1162-as-far-from-land-as-possible](https://github.com/mr-aditya4311/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
 ## Matrix
 |  |
@@ -105,8 +106,13 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mr-aditya4311/LeetCode/tree/master/0013-roman-to-integer) |
+| [0647-palindromic-substrings](https://github.com/mr-aditya4311/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Database
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/mr-aditya4311/LeetCode/tree/master/0175-combine-two-tables) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/mr-aditya4311/LeetCode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
