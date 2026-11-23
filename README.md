@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mr-aditya4311/LeetCode/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/mr-aditya4311/LeetCode/tree/master/0279-perfect-squares) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mr-aditya4311/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0695-max-area-of-island](https://github.com/mr-aditya4311/LeetCode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/mr-aditya4311/LeetCode/tree/master/0994-rotting-oranges) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mr-aditya4311/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/mr-aditya4311/LeetCode/tree/master/0279-perfect-squares) |
 | [0647-palindromic-substrings](https://github.com/mr-aditya4311/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/mr-aditya4311/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/mr-aditya4311/LeetCode/tree/master/1162-as-far-from-land-as-possible) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0009-palindrome-number](https://github.com/mr-aditya4311/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mr-aditya4311/LeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/mr-aditya4311/LeetCode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/mr-aditya4311/LeetCode/tree/master/0279-perfect-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/mr-aditya4311/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/mr-aditya4311/LeetCode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/mr-aditya4311/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
